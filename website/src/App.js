@@ -1,4 +1,3 @@
-import './App.css';
 import { Button, Card, Dropdown, Carousel, Nav, NavDropdown, ListGroup, Badge, Container, Row, Col } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 // MAKE SURE TO USE EXAMPLES FROM BOOTSTRAPREACT https://react-bootstrap.github.io/components/navs/
@@ -43,45 +42,15 @@ const App = () => {
 
 
   return (
-    <div className="App" style={{ background: content.color.BackgroundShade, }}>
-      <Router>
-        <div style={{ fontFamily: 'Arial', }} >
-
-          <Routes >
-            <Route path="/" element={
-              <div className="App">
-                <header >
-                  <div className='d-flex justify-content-between mx-2'>
-                  </div>
-
-                </header>
-                <div style={{ background: content.color.BackgroundShade, }}>
-                  <Container style={{ background: content.color.LightShade, }}>
-                  </Container>
-                </div>
-              </div>
-            } />
-            <Route path="/glosor" element={
-              <div className="App">
-                <header >
-                  <div className='d-flex justify-content-between mx-2'>
-                  </div>
-                </header>
-                <div style={{ background: content.color.BackgroundShade, }}>
-                  <Container style={{ background: content.color.LightShade, }}>
-                    <DisplayGlosor />
-                  </Container>
-                </div>
-              </div>
-            } />
-
-          </Routes >
-
-        </div>
-      </Router >
-
-    </div>
-
+    <Router>
+      <div style={{ fontFamily: 'Arial', }} >
+        <Routes >
+          <Route path="/glosor" element={
+            <DisplayGlosor />
+          } />
+        </Routes >
+      </div>
+    </Router >
   )
 }
 

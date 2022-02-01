@@ -1,6 +1,9 @@
 
-    html, body, body > div, .app {
-        height: 100%;
+    
+    
+      #root {
+        height: 100vh;
+        background-color: #DEDED4
       }
     
     .container { 
@@ -28,7 +31,7 @@
     }
     .ingredient:nth-child(odd) 
     {
-        background: #F3F3ED;
+        background: #03fa2d;
     }
     /* the dot in front of the name means it is a class .input, a class can be used unlimited times
     if there is a # infront it is a specific ID, (#input) and only used ONCE on a page */
