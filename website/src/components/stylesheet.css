@@ -1,0 +1,72 @@
+
+    html, body, body > div, .app {
+        height: 100%;
+      }
+    
+    .container { 
+        color: black;
+        margin: '0 auto'; 
+        display: 'flex'; 
+        flex-direction: 'column'; 
+        justify-content: 'center'; 
+        padding: 20px ;
+        background-color: '#F3F3ED';
+    }
+    .navbar{
+        color: '#A7AC38';
+    }
+
+    .carouselMultipleItems
+    {
+        margin-top: 10px;
+    }
+
+    .ingredient { 
+        color: black;
+        padding: 5px;
+        background: white; 
+    }
+    .ingredient:nth-child(odd) 
+    {
+        background: #F3F3ED;
+    }
+    /* the dot in front of the name means it is a class .input, a class can be used unlimited times
+    if there is a # infront it is a specific ID, (#input) and only used ONCE on a page */
+    .input { 
+        border: 'none'; 
+        background-color: '#ddd';
+        margin-bottom: 10; 
+        padding: 8; 
+        font-size: 18pt;
+    }
+
+
+    .ingredientName { 
+        font-size: 18pt;
+        font-weight: 'bold' ;
+        text-align: start;
+    }
+    .ingredientPrice { 
+        font-size: 18pt;
+        font-weight: 'bold' ;
+        text-align: start;
+    }
+
+    ingredientDescription { 
+        marginBottom: 0 ;
+    }
+
+    .button { 
+        background-color: #A7AC38;
+        color: black;
+        border: none; 
+        font-size: 18pt; 
+        padding: '12px 0px' ;
+    }
+    .button-secondary { 
+        background-color: #C4A53E;
+        color: black;
+        border: none; 
+        font-size: 12pt; 
+        padding: '6px 0px' ;
+    }
