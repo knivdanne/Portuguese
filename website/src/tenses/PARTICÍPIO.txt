@@ -1,0 +1,29 @@
+The past participle, used in like the past perfect after ter in pretérito imperfeito
+
+In general, the Portuguese past participle is formed by replacing the suffixes –ar, -er, and -ir* of the infinitive verb forms with either –ado or –ido. 
+Here’s an example for each of the 3 regular conjugation groups:
+
+Filmar Filmado
+Mexer Mexido	
+Partir Partido
+
+There are a few irregulares like:
+abrir (open)	aberto
+pôr (put)	posto
+
+
+Some verbs have two past participle forms, one regular and the other irregular. The regular form is used in connection with the auxiliary verbs ter and haver, whereas the irregular one is used with ser or estar :
+entregar (deliver)	entregado	entregue
+eleger (elect)	elegido	eleito
+
+O povo tinha elegido o Marcelo para presidente em 2016
+O Marcelo foi novamente eleito presidente agora em 2021. 
+(Often people can still use the irregular one (eleito even with ter)
+
+In Portuguese, as in English, the passive voice is formed by the verb ser (to be)* followed by the past participle:
+Esta música foi composta por mim. = This song was composed by me.
+O João foi salvo pelo nadador salvador. = João was saved by the lifeguard.
+
+Past participles often act as adjectives when they follow linking verbs such as ser, estar, ficar, sentir-se, or andar. In that case, they agree in gender and number * regarding the noun they refer to:
+A Isabel está cansada. = Isabel is tired.
+Sentimo-nos desanimados quando perdemos o jogo = We felt low spirited when we lost that game. 

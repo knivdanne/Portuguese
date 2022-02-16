@@ -1,0 +1,31 @@
+Indicativo Futuro do Presente Simples - Often too formal and only used in written language e.g. I will think. you use pensarei in formal text and eu vou pensar in day to day
+https://www.portuguesepedia.com/portuguese-future-tenses/
+It is worth noticing that the Portuguese equivalent of the simple future tense has a conjugation pattern that encompasses almost all verbs (three exceptions only). 
+To conjugate the Portuguese simple future tense, take the infinitive form of any verb (that will make the stem) and add the ending to it. It’s as simple as that.
+The three exceptions (the endings are the same but the stem doesn’t correspond to the infinitive form):
+Fazer becomes far, dizer becomes dir, trazer becomes trar
+
+Examples:
+Pensarei nisso e digo-te algo mais tarde.
+I will think about that and I’ll get back to you later on.
+
+Now, this futuro tense will often sound too formal and is mostly used in written language. 
+In day-to-day life, we are likely to use something more colloquial and akin to the English structure be going to + main verb.
+
+Vou pensar nisso e digo-te algo mais tarde.
+I will think about that and I’ll get back to you later on.
+
+Note that, in English, the difference between will + infinitive vs. be going to + infinitive is overly contextual (and not so much pertaining to differences in style). 
+
+In Portuguese, however, the difference between futuro vs. ir + infinitive mostly concerns style and register (formal/written vs. informal/spoken).
+
+Finally, we sometimes use futuro to wonder about something (uncertain scenario): 
+
+pensar (futuro)
+O Edgar pensará que estou chateado com ele… 
+Edgar might be thinking I am cross with him…
+In this context, another alternative (perhaps more common) would be to use the Portuguese modal* verb dever:
+
+dever (presente) > pensar (infinitivo)
+O Edgar deve pensar que estou chateado com ele… 
+Edgar might be thinking I am cross with him…
